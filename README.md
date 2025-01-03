@@ -4,8 +4,8 @@
 
 </p>
 
-<h1>Successful Completion of the Full Stack Network Associate Program</h1>
-This tutorial highlights my skills and ability to meet the networking needs of a modern-day enterprise.<br />
+<h1>Successful Completion of the Full Stack Network Program</h1>
+This tutorial tests my understanding of an Enterprise-grade network's deployment, configuration, and troubleshooting.<br />
 
 
 
