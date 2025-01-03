@@ -32,16 +32,17 @@ Objectives and Tasks to be performed.
 <br />
 
 <p>
-<img width="960" alt="Screenshot 2024-12-15 000545" src="https://github.com/user-attachments/assets/e699ae3a-8aca-4c1d-91cf-6a9540c6a2d" />
+<img width="960" alt="Screenshot 2025-01-02 235850" src="https://github.com/user-attachments/assets/a67faa8f-5cf3-4249-abb9-b6bb6231d642" /> 
+
 
 </p>
 <p>
-Step-by-Step Instructions for Completing the Skills Qualification Check 1 of 6
+Objectives and Tasks to be performed.
 </p>
 <br />
 
 <p>
-<img width="960" alt="Screenshot 2024-12-15 000628" src="https://github.com/user-attachments/assets/726f79d6-3b9d-46aa-8cb9-a97d2177fab" />
+<img width="960" alt="Screenshot 2025-01-03 000246" src="https://github.com/user-attachments/assets/c5e7a055-eb6d-48ee-ae14-c85b3a551d23" /> 
 
 </p>
 <p>
