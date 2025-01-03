@@ -14,7 +14,8 @@ This tutorial tests my understanding of an Enterprise-grade network's deployment
 
 
 <p>
-<img width="960" alt="Screenshot 2024-12-15 22214" src="https://github.com/user-attachments/assets/6933ebf6-4c90-40df-9cfb-90f8f9b3dce" />
+<img width="960" alt="2025-01-02 234903" src="https://github.com/user-attachments/assets/1eef3664-d781-4946-9629-b43f26393cd9" /> 
+
 </p>
 <p>
 Blank Slate of Full Stack Network Associate Real-World Skills Certification in Packet Tracer.
