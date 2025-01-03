@@ -1,5 +1,6 @@
 <p align="center">
-<img width="960" alt="Screenshot 2024-12-15 004325" src="https://github.com/user-attachments/assets/6624a821-206e-41c2-a61b-51d1e0bb191a" />
+<img width="960" alt="Screenshot 2025-01-02 215645" src="https://github.com/user-attachments/assets/712378bf-e9e2-41c6-926d-c591073da574" />
+
 </p>
 
 <h1>Successful Completion of the Full Stack Network Associate Program</h1>
