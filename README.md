@@ -18,12 +18,12 @@ This tutorial tests my understanding of an Enterprise-grade network's deployment
 
 </p>
 <p>
-Blank Slate of Full Stack Network Associate Real-World Skills Certification in Packet Tracer.
+Blank Slate of Full Stack Network Project Real-World Skills Certification in Packet Tracer.
 </p>
 <br />
 
 <p>
-<img width="960" alt="Screenshot 2024-12-15 00042" src="https://github.com/user-attachments/assets/51a8ce42-b8f1-400d-870f-087c6ae9646" />
+<img width="960" alt="Screenshot 2025-01-02 235354" src="https://github.com/user-attachments/assets/b26aa541-f7dd-42c1-a97e-3ce39195c887" /> 
 
 </p>
 <p>
