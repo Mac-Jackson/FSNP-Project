@@ -4,7 +4,7 @@
 
 </p>
 
-<h1>Successful Completion of the Full Stack Network Program</h1>
+<h1>Successful Completion of the Full Stack Network Project</h1>
 This tutorial tests my understanding of an Enterprise-grade network's deployment, configuration, and troubleshooting.<br />
 
 
