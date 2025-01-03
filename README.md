@@ -56,51 +56,65 @@ Step-by-Step Instructions for Completing the Skills Qualification Check 1 of 7
 
 </p>
 <p>
-Step-by-Step Instructions for Completing the Skills Qualification Check 3 of 6
+Step-by-Step Instructions for Completing the Skills Qualification Check 2 of 7
 </p>
 <br />
 
 <p>
-<img width="960" alt="Screenshot 2024-12-15 000748" src="https://github.com/user-attachments/assets/176cc17d-e187-4c0f-82d0-243243be9f1" />
+<img width="960" alt="Screenshot 2025-01-03 003330" src="https://github.com/user-attachments/assets/0ef83d7a-ff49-4c1b-bb6b-100f5771a2fe" /> 
+
 
 </p>
 <p>
-Step-by-Step Instructions for Completing the Skills Qualification Check 4 of 6
+Step-by-Step Instructions for Completing the Skills Qualification Check 3 of 7
 </p>
 <br />
 
 <p>
-<img width="960" alt="Screenshot 2024-12-15 000828" src="https://github.com/user-attachments/assets/93642912-444a-4874-9b18-09920a98ed7" />
+<img width="960" alt="Screenshot 2025-01-03 003509" src="https://github.com/user-attachments/assets/ec9ed93a-7cf9-4f9b-b9da-fc7db65db057" /> 
+
 
 </p>
 <p>
-Step-by-Step Instructions for Completing the Skills Qualification Check 5 of 6
+Step-by-Step Instructions for Completing the Skills Qualification Check 4 of 7
 </p>
 <br />
 
 <p>
-<img width="960" alt="Screenshot 2024-12-15 000904" src="https://github.com/user-attachments/assets/db1405b6-517c-4337-a72c-bf4bec115ac" />
+<img width="960" alt="Screenshot 2025-01-03 003612" src="https://github.com/user-attachments/assets/5f406df7-fa00-40fa-95e2-d6f4a0c884b2" /> 
+
 
 </p>
 <p>
-Step-by-Step Instructions for Completing the Skills Qualification Check 6 of 6
+Step-by-Step Instructions for Completing the Skills Qualification Check 5 of 7
 </p>
 <br />
 
 <p>
-<img width="960" alt="Screenshot 2024-12-15 000941" src="https://github.com/user-attachments/assets/fce78a96-cd89-476e-83d7-c4c8397eea9" />
+<img width="960" alt="Screenshot 2025-01-03 003655" src="https://github.com/user-attachments/assets/5ecb0ea8-ef9d-466b-b518-4ab99aab8edc" /> 
 
 </p>
 <p>
-Completion of all Tasks and working diagram.
+Step-by-Step Instructions for Completing the Skills Qualification Check 6 of 7
 </p>
 <br />
 
 <p>
-<img width="960" alt="Screenshot 2024-12-15 001251" src="https://github.com/user-attachments/assets/6570da91-297f-4087-a237-f68764caf9c" />
+<img width="960" alt="Screenshot 2025-01-03 003813" src="https://github.com/user-attachments/assets/a981d0e1-9ce5-440f-88b1-3b553b66e0d5" /> 
+
 
 </p>
 <p>
-Bonus upgrade to the Skills Qualification Check.
+Step-by-Step Instructions for Completing the Skills Qualification Check 7 of 7
 </p>
 <br />
+
+<p>
+<img width="960" alt="Screenshot 2025-01-03 003920" src="https://github.com/user-attachments/assets/4a60f9a0-355e-4379-9d68-f68887999ff3" /> 
+
+
+</p>
+<p>
+</p>
+<br />
+
