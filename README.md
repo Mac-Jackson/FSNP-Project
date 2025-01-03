@@ -46,12 +46,13 @@ Objectives and Tasks to be performed.
 
 </p>
 <p>
-Step-by-Step Instructions for Completing the Skills Qualification Check 2 of 6
+Step-by-Step Instructions for Completing the Skills Qualification Check 1 of 7
 </p>
 <br />
 
 <p>
-<img width="960" alt="Screenshot 2024-12-15 000707" src="https://github.com/user-attachments/assets/28f0fd75-9f51-4287-98d1-91490b96f0e" />
+<img width="960" alt="Screenshot 2025-01-03 000545" src="https://github.com/user-attachments/assets/09a9a36a-34c8-43e0-9171-b5fe6294c112" /> 
+
 
 </p>
 <p>
